@@ -2,6 +2,10 @@
 #labels Featured
 
 = Changelog =
+----
+20100313-2
+
+Added a chapter of Chinese typography explaining different typefaces and when to use them.
 
 ----
 20100313
