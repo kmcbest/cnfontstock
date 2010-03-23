@@ -1,0 +1,47 @@
+#summary One-sentence summary of this page.
+
+= Changelog =
+
+----
+20100313
+
+*Initial release*
+{{{
+\displaysample{至爱}{至愛}{Greatest love of all}{Greatest love}
+\displaysample{真爱}{真愛}{True love}{True love}
+\displaysample{友谊}{友誼}{Friendship}{Friendship}
+\displaysample{朋友}{朋友}{Friend}{Friend}
+\displaysample{兄弟}{兄弟}{Brothers (elder and younger)}{Brothers}
+\displaysample{姐妹}{姐妹}{Sisters (elder and younger)}{Sisters}
+\displaysample{父母}{父母}{Parents}{Parents}
+\displaysample{精神}{精神}{Spirit, Vitality, Vitor}{Spirit}
+\displaysample{情感}{情感}{Emotion, Passion, Feeling}{Emotion}
+\displaysample{团结}{團結}{Unity, United, Together, Rally}{United}
+\displaysample{勇敢}{勇敢}{Brave, Valiant, Gallantry}{Brave}
+\displaysample{勇气}{勇氣}{Courage, guts, bravery}{Courage}
+\displaysample{奋斗}{奮鬥}{Fight, Strive, Struggle}{Strive}
+\displaysample{斗争}{鬥爭}{Battle, Fight, Struggle}{Battle}
+\displaysample{权力}{權力}{Power, Authority}{Authority}
+\displaysample{强劲}{強勁}{Poweful, Strong}{Poweful}
+\displaysample{天空}{天空}{Sky}{Sky}
+\displaysample{苍穹}{蒼穹}{Sky (in old elegant Chinese)}{Sky}
+\displaysample{优雅}{優雅}{Grace, Graceful, Elegancy}{Elegant}
+\displaysample{古典}{古典}{Classic, Classical}{Classic}
+\displaysample{经典}{經典}{Classics}{Classics}
+\displaysample{复古}{復古}{Retro, Retrospective}{Retro}
+\displaysample{自然}{自然}{Nature, Natural}{Nature}
+\displaysample{天人合一}{天人合一}{Integration/Fusion human--nature}{Human nature}
+\displaysample{奔腾}{奔騰}{Dash, Gallop, Run}{Dash}
+\displaysample{驰骋}{馳騁}{Gallop (like a horse)}{Gallop}
+\displaysample{桀骜不驯}{桀驁不馴}{Rebellious, Unruly, Persistence}{Rebel}
+\displaysample{固若金汤}{固若金湯}{Fortified, Impregnable, Invulnerability (military term)}{Invulnerability}
+\displaysample{独孤求败}{獨孤求敗}{The state of matchless, world-beater, Unrivaled}{Matchless}
+\displaysample{无往不胜}{無往不勝}{Invincible, Ever-victorious, Matchless}{Invincible}
+\displaysample{坚定}{堅定}{Firm, Staunch, Decisive, Steadfast}{Firm}
+\displaysample{正义}{正義}{Justice}{Justice}
+\displaysample{至高无上}{至高無上}{Supreme, Supremacy, Sovereign (with power)}{Supreme}
+\displaysample{光荣}{光榮}{Glory, Glorious, Honorable, Proud}{Proud}
+\displaysample{光辉}{光輝}{Glow, Brilliant, Splendor, Blaze}{Splendor}
+\displaysample{光芒万丈}{光芒萬丈}{Ray of light, Gloriously radiant}{Ray}
+\displaysample{一触即发}{一觸即發}{On the verge, Touch and go (warfare)}{Touch and go}
+}}}
