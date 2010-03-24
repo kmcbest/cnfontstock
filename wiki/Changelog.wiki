@@ -2,6 +2,70 @@
 #labels Featured
 
 = Changelog =
+
+----
+20100324
+
+Major update, added Zodiac and Chinese Zodiac
+{{{
+\chapter{Chinese Zodiac}
+\displaysample{鼠}{鼠}{Rat}{Rat}
+\displaysample{牛}{牛}{Ox}{Ox}
+\displaysample{虎}{虎}{Tiger}{Tiger}
+\displaysample{兔}{兔}{Rabbit}{Rabbit}
+\displaysample{龙}{龍}{Dragon}{Dragon}
+\displaysample{蛇}{蛇}{Snake}{Snake}
+\displaysample{马}{馬}{Horse}{Horse}
+\displaysample{羊}{羊}{Goat, Sheep, Ram}{Goat}
+\displaysample{猴}{猴}{Monkey}{Monkey}
+\displaysample{鸡}{雞}{Rooster}{Rooster}
+\displaysample{狗}{狗}{Dog}{Dog}
+\displaysample{猪}{豬}{Pig}{Pig}
+
+\chapter{Zodiac}
+\displaysample{白羊}{白羊}{Aries}{Aries}
+\displaysample{金牛}{金牛}{Taurus}{Taurus}
+\displaysample{双子}{雙子}{Gemini}{Gemini}
+\displaysample{巨蟹}{巨蟹}{Cancer}{Cancer}
+\displaysample{狮子}{獅子}{Leo}{Leo}
+\displaysample{处女}{處女}{Virgo}{Virgo}
+\displaysample{天秤}{天秤}{Libra}{Libra}
+\displaysample{天蝎}{天蠍}{Scorpio}{Scorpio}
+\displaysample{射手}{射手}{Sagittarius}{Sagittarius}
+\displaysample{山羊}{山羊}{Capricorn}{Capricorn}
+\displaysample{水瓶}{水瓶}{Aquarius}{Aquarius}
+\displaysample{双鱼}{雙魚}{Pisces}{Pisces}
+}}}
+
+Regroup two-character words and Chengyu's. 
+{{{
+\displaysample{憧憬}{憧憬}{Longing, Yearning, Look forward to (elegant word)}{Longing}
+\displaysample{动感}{動感}{Motion, Dynamic}{Dynamic}
+\displaysample{热忱}{熱忱}{Ardor, Enthusiastic, Enthusiasm, Zeal}{Enthusiasm}
+\displaysample{深邃}{深邃}{Deep, Profond (elegant word)}{Deep}
+\displaysample{飞翔}{飛翔}{Fly}{Fly}
+\displaysample{翱翔}{翱翔}{Fly, Fly high (elegant word)}{Fly high}
+\displaysample{未来}{未來}{Future}{Future}
+\displaysample{性感}{性感}{Sexy}{Sexy}
+\displaysample{科技}{科技}{Science and technology}{Science and technology}
+\displaysample{时尚}{時尚}{Fasion, Mode, Vogue}{Fashion}
+\displaysample{休闲}{休閒}{Casual, Leisure, Recreational, Lounge}{Casual}
+\displaysample{愜意}{惬意}{Pleased, Satisfied, Agreeable}{Agreeable}
+\displaysample{恬静}{恬靜}{Quiet, Peaceful, Tranquil (elegant word)}{Quiet}
+\displaysample{静谧}{靜謐}{Serenity, Tranquility (old elegant word)}{Serenity}
+\displaysample{缜密}{縝密}{Careful, Meticulous (in one`'`s way of thinking)}{Meticulous}
+\displaysample{国家}{國家}{Country, State, Nation}{Country}
+\displaysample{民族}{民族}{People, Ethnic group, Race, Nationality}{Nationality}
+\displaysample{爱国}{愛國}{Patriotism, Patriotic}{Patriotism}
+\displaysample{战士}{戰士}{Soldier}{Soldier}
+\displaysample{勇士}{勇士}{Warrior, A brave heart}{Warrior}
+
+\displaysample{花团锦簇}{花團錦簇}{Bouquets of flowers and piles of silks, rich multicolored decorations}{Flowers}
+\displaysample{海纳百川}{海納百川}{All rivers run into sea}{Sea}
+}}}
+
+Added logo and cover background
+
 ----
 20100313-2
 
