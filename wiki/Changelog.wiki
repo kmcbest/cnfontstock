@@ -2,6 +2,12 @@
 #labels Featured
 
 = Changelog =
+---
+20100325
+
+Added Cao Shu (rapid script)
+
+Added Hiragino Mincho for Song Ti traditional
 
 ----
 20100324
